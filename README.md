@@ -18,9 +18,9 @@
 
 ## 📊 GitHub Dashboard
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddeshgawande&show_icons=true&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddeshgawande&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddeshgawande&layout=compact&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddeshgawande&theme=github_dark)
 
 ---
 
