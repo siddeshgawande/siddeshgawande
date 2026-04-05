@@ -18,20 +18,9 @@
 
 ## 📊 GitHub Dashboard
 
-<table>
-<tr>
-<td>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddeshgawande&show_icons=true&theme=radical)
 
-</td>
-<td>
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddeshgawande&layout=compact&theme=radical)
-
-</td>
-</tr>
-</table>
 
 ---
 
