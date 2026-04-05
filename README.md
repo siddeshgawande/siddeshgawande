@@ -18,10 +18,9 @@
 
 ## 📊 GitHub Dashboard
 
-## 📊 GitHub Dashboard
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddeshgawande&theme=github_dark)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddeshgawande&theme=github_dark" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddeshgawande&theme=github_dark" width="48%" />
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddeshgawande&theme=github_dark)
 
 ---
 
